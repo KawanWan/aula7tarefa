@@ -1,0 +1,16 @@
+{
+  "name": "aula7_tarefa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Kawan Wan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aula7_tarefa": "file:",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
